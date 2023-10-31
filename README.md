@@ -10,7 +10,7 @@ This app enables users to interact with their dataframe without using code but n
 
 - clone repo:
   
-  `git clone https://github.com/emmakodes/reflex_ocr_system.git`
+  `git clone https://github.com/emmakodes/my_dataframe_chatbot.git`
 
 - change directory to reflex_ocr_system
 
